@@ -2,7 +2,14 @@
 
 ## Candidate
 Himanshu Firke
+---
 
+## 📄 Case Study Document
+
+👉 **Full Detailed Solution (Google Docs):**  
+[https://docs.google.com/document/d/1mzj-Fg85nNIaeOFjQtGITMyH8s1tl782_NK1pThORRA/edit?usp=sharing]
+
+---
 ## Overview
 This project implements a backend system for inventory management supporting multi-warehouse tracking and supplier relationships.
 
@@ -37,6 +44,3 @@ Tested using Postman with:
 - Error handling
 - Edge cases
 
-## Additional Work
-Full case study document (Google Docs):
-[https://docs.google.com/document/d/1mzj-Fg85nNIaeOFjQtGITMyH8s1tl782_NK1pThORRA/edit?usp=sharing]

@@ -39,4 +39,4 @@ Tested using Postman with:
 
 ## Additional Work
 Full case study document (Google Docs):
-[PASTE YOUR DOC LINK HERE]
+[https://docs.google.com/document/d/1mzj-Fg85nNIaeOFjQtGITMyH8s1tl782_NK1pThORRA/edit?usp=sharing]
